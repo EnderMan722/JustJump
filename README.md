@@ -6,4 +6,5 @@ You would race through a series of levels jumping and wall jumping with only one
 ![GameDiagram](https://github.com/EnderMan722/JustJump/blob/main/images/GameArtifact.png)
 
 ![Mockup](https://github.com/EnderMan722/JustJump/blob/main/images/Mockup.png)
+
 One of the levels shown above
