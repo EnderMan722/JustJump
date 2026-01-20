@@ -11,7 +11,7 @@ Race through a series of 2D levels jumping and wall jumping with only one button
 
 ![GameDiagram](https://github.com/EnderMan722/JustJump/blob/main/images/GameArtifact.png)
 
-![Mockup](https://github.com/EnderMan722/JustJump/blob/main/images/Mockup%20(1).png)
+![Mockup](https://github.com/EnderMan722/JustJump/blob/main/images/Mockup%20(2).png)
 
 One of the levels shown above :)
 
