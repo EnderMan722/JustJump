@@ -9,7 +9,7 @@ Race through a series of 2D levels jumping and wall jumping with only one button
 * Final Boss
 * Multiplayer?
 
-![GameDiagram](https://github.com/EnderMan722/JustJump/blob/main/images/GameArtifact.png)
+![GameDiagram](https://github.com/EnderMan722/JustJump/blob/main/images/GameArtifact%20(1).png)
 
 ![Mockup](https://github.com/EnderMan722/JustJump/blob/main/images/Mockup.png)
 
