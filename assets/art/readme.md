@@ -5,6 +5,6 @@
 * I solved the problem of adding a png to the tilemapper, but I just had to drag it in
 
 ## Future Edits:
-* Making the guy move using inputs
+* Adding an animation, because I got one to work on my home computer, but extracting the zip file took way to long to put into my game, so it was just a test
 * More sprites and more art
 * Change solid background picture to tiling, for a better asthetic look
