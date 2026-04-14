@@ -10,7 +10,7 @@ There is going to be flying hippos and an end game boss, as a floating head and 
 There are no microtransactions in this game. No in game money either.
 
 ### Promotional Magazine
-* [Promotional Magazine PDF]()
+* [Promotional Magazine PDF](https://github.com/EnderMan722/JustJump/blob/main/images/Promotional%20Magazine.pdf)
 
 
 ### Key Elements:
