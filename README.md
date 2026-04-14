@@ -5,9 +5,13 @@ Race through a series of 2D levels jumping and wall jumping with only one button
 
 The main character is a plant in a boot like in Wall-E. There is going to be enemies and maybe an end game boss.
 
-There is going to be flying hippos and the possible end game boss will probably be a floating head and hands.
+There is going to be flying hippos and an end game boss, as a floating head and hands.
 
-No rewards. I might add some sort of currency so you can buy new skins.
+There are no microtransactions in this game. No in game money either.
+
+### Promotional Magazine
+* [Promotional Magazine PDF]()
+
 
 ### Key Elements:
 * Powerups
